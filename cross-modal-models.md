@@ -39,7 +39,7 @@ of acoustic models that link music audio directly to unconstrained natural langu
 - [Using Question Answering Rewards to Improve Abstractive `Summarization`](https://aclanthology.org/2021.findings-emnlp.47.pdf)
 
 ## Content-Bound Recommendation (CBR)
-- [BERTLink](https://arxiv.org/pdf/2203.15827.pdf): A multi-objective pretrained-LM. They propose a language pretraining method that leverages links between documents.
+- [LinkBERT](https://arxiv.org/pdf/2203.15827.pdf): A multi-objective pretrained-LM. They propose a language pretraining method that leverages links between documents.
 
 ## Conversational Recommender System (CRS)
 - [Personalized Food Recommendation as Constrained Question Answering over a Large-scale Food Knowledge Graph](https://arxiv.org/pdf/2101.01775.pdf)
