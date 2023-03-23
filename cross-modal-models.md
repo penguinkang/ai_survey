@@ -58,3 +58,8 @@ of acoustic models that link music audio directly to unconstrained natural langu
 ## Model compression
 - [MODEL COMPRESSION VIA DISTILLATION AND QUANTIZATION](https://arxiv.org/pdf/1802.05668.pdf)
 - [Non-Aggressive Neural Machine Translation `NANMT`](https://arxiv.org/pdf/1711.02281.pdf)
+
+# Metrics
+
+## Factual Consistency
+- [TRUE: Re-evaluating Factual Consistency Evaluation](https://arxiv.org/pdf/2204.04991.pdf)
